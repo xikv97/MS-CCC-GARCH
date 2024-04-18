@@ -33,9 +33,10 @@ The main results described in the thesis are available in the `thesis.ipynb` Jup
 
 
 ## References
-Implementation of MS CCC-GARCH model estimation and forecasting for bivariate case
 1. [Markus Haas & Ji-Chun Liu, "A Multivariate Regime-switching GARCH Model," Code Ocean.](https://codeocean.com/capsule/9016375/tree/v1)
-On efficient estiation of multivariate distributions using cholesky decomposition
+Implementation of MS CCC-GARCH model estimation and forecasting for bivariate case
 2. [Jeffrey Pollock, "Multivariate normal covariance matrices and the cholesky decomposition" Github.](https://jeffpollock9.github.io/multivariate-normal-cholesky/)
-Algorithm for constrained optimization of PSD correlation matrix
+On efficient estiation of multivariate distributions using cholesky decomposition
 3. Archakov, I. & Reinhard Hansen, P., 2021. "A New Parametrization of Correlation Matrices." _Econometrica_, Volume 89, pp. 1699-1715.
+Algorithm for constrained optimization of PSD correlation matrix
+
